@@ -1,0 +1,134 @@
+.first{
+    background-color: black;
+    text-align: center
+}
+.adrian-raines-img{
+    height: 150px;
+    margin-left:
+}
+
+h1{
+    font-size: 50px
+}
+h2{
+  
+}
+h3{
+    padding-left: 20px;
+        padding-top: 10px;
+          font-size:15px
+}
+p{
+    
+}
+
+.myb{padding-left: 100px;
+       text-align: right;
+       position: relative;
+    bottom: 50px;
+        padding-right:55px;
+            float:right;
+                font-size:15px
+}
+.Date-of-Birth{
+    margin-right: 30px;
+       text-align: right;
+       position: relative;
+    bottom: 50px;
+        padding-right:55px;
+            float:right;
+                font-size:15px
+}
+.Age{
+    margin-left: 200px;
+        margin-right: 30px;
+       text-align: right;
+       position: relative;
+    bottom: 50px;
+        padding-right:55px;
+            float:right;
+                font-size:15px
+}
+.Status{
+    position: relative;
+    left: 170px;
+    bottom: 35px
+}
+.lists{
+       position: relative;
+    left: 110px;
+    bottom: 40px
+  
+}
+.weapons{
+    text-align: right;
+    position: relative;
+    bottom: 35px;
+    right: 60px
+}
+.choice{
+    text-align: right;
+    position: relative;
+    bottom: 90px;
+    line-height: 2;
+}
+.ad{
+    text-align: right;
+    position: relative;
+    bottom: 35px;
+    right:60px;
+}
+.Family{
+    position: relative;
+    left: 150px;
+    bottom: 35px
+}
+.Personality{
+    position: relative;
+    left: 180px;
+    bottom:40px
+}
+.Allegiance{
+    text-align: right;
+    position: relative;
+    bottom: 35px;
+    right: 40px
+}
+.line-1{
+    width: 1100px
+}
+.line-2{
+    width: 1100px
+}
+.found{
+    font-size:21px;
+   
+    
+}
+.box1{
+    height: 40px;
+        width:300px;
+    background-color: red;
+    margin-left: 950px;
+   position:relative;
+    bottom:540px;
+    text-align: center
+}
+.Name{
+    position: relative;
+    top:5px;
+    color: white
+}
+.box2{
+     height: 1111px;
+        width:300px;
+    background-color: #f0e3ff;
+    margin-left: 950px;
+    position: relative;
+    bottom: 560px;
+}
+.second{
+        font-size: 30px
+}
+
+    
